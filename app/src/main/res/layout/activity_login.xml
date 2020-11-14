@@ -73,7 +73,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="@dimen/button_height"
                 android:textSize="@dimen/appbar_text1_size"
-                android:hint="shaharuzzaman23@gmail.com"
+                android:hint="pablo@gmail.com"
                 android:padding="10dp"
                 android:layout_marginBottom="15dp"
                 android:background="@drawable/edit_text_bg1">

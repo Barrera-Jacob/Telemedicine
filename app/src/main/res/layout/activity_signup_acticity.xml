@@ -78,7 +78,7 @@
                     android:layout_height="@dimen/button_height"
                     android:layout_marginBottom="15dp"
                     android:padding="10dp"
-                    android:hint="Shaharuzzaman Sourav"
+                    android:hint="Pablo Acuna"
                     android:textSize="@dimen/appbar_text1_size"
                     android:background="@drawable/edit_text_bg1">
 
@@ -97,7 +97,7 @@
                     android:layout_height="@dimen/button_height"
                     android:layout_marginBottom="15dp"
                     android:padding="10dp"
-                    android:hint="shaharuzzaman23@gmail.com"
+                    android:hint="pablo@gmail.com"
                     android:textSize="@dimen/appbar_text1_size"
                     android:background="@drawable/edit_text_bg1">
 

@@ -6,9 +6,7 @@ import androidx.fragment.app.FragmentPagerAdapter;
 
 import com.designskill.telemedicine.fragment.TopViewPagerFragmet;
 
-/**
- * Created by abdalla on 2/18/18.
- */
+
 
 public class TopViewPager extends FragmentPagerAdapter {
 
