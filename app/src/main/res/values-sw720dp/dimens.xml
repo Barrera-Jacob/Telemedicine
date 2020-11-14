@@ -1,0 +1,59 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="fab_margin">16dp</dimen>
+
+
+    <dimen name="bt_padding">40dp</dimen>
+
+
+    <dimen name="tab_height">100dp</dimen>
+
+    <dimen name="appbar_text1_size">20sp</dimen>
+    <dimen name="appbar_text2_size">26sp</dimen>
+    <dimen name="appbar_img_size">33dp</dimen>
+
+
+    <dimen name="big_text">23sp</dimen>
+    <dimen name="small_text_1">21sp</dimen>
+    <dimen name="small_text_2">18sp</dimen>
+    <dimen name="home_top_vp_height">230dp</dimen>
+    <dimen name="home_top_vp_width">310dp</dimen>
+
+    <dimen name="alldoctor_row_weight">330dp</dimen>
+    <dimen name="alldoctor_row_height">200dp</dimen>
+
+    <dimen name="button_height">65dp</dimen>
+
+
+    <dimen name="chat_img_height_weight">60dp</dimen>
+
+    <dimen name="doctor_profile_img">600dp</dimen>
+
+    <dimen name="home_viewpager_height">300dp</dimen>
+
+    <dimen name="profile_top_img_height">400dp</dimen>
+
+    <dimen name="profile_top_margin">300dp</dimen>
+
+    <dimen name="profile_main_img_size">200dp</dimen>
+
+    <dimen name="search_bottom_img">400dp</dimen>
+
+    <dimen name="search_list_bottom_recycleview">450dp</dimen>
+
+    <dimen name="setting_row_height">100dp</dimen>
+
+    <dimen name="setting_row_img">40dp</dimen>
+
+    <dimen name="chat_profile_img">100dp</dimen>
+
+    <dimen name="search_list_doctor_img_size">100dp</dimen>
+
+    <dimen name="calling_page_img_size">60dp</dimen>
+
+    <dimen name="notification_img_size">60dp</dimen>
+
+    <dimen name="rect_back_height">70dp</dimen>
+
+</resources>

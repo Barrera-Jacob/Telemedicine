@@ -1,0 +1,3 @@
+rootProject.name='Doctor Appointment'
+include ':app', ':datepicker'
+include ':app', ':logger'

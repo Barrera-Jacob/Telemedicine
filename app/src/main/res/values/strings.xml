@@ -1,0 +1,94 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+
+    <!-- PLEASE KEEP THIS App ID IN SAFE PLACE -->
+    <!-- Get your own App ID at https://dashboard.agora.io/ -->
+    <!-- After you entered the App ID, remove <##> outside of Your App ID -->
+    <string name="agora_app_id">7c18cb72bf4d4a38994f64dbf2da643e</string>
+    <!-- Obtain a temp Access Token at https://dashboard.agora.io -->
+    <!-- You will need to deploy your own token server for production release -->
+    <!-- Leave this value empty if Security keys/Token is not enabled for your project -->
+    <string name="agora_access_token"></string>
+
+
+    <string name="app_name">Hola Pablo</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up1">Sign Up!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_your_password">Forgot  your Password?</string>
+
+
+    <string name="create_account">Create Account</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_in1">Sign In!</string>
+    <string name="user_name">Username</string>
+    <string name="phone">Phone</string>
+    <string name="confirm_password">Confirm password</string>
+
+
+    <string name="notification">Notification</string>
+    <string name="message_option">Message Option</string>
+    <string name="call_option">Call Option</string>
+    <string name="video_call_option">Video Call Option</string>
+
+
+    <string name="search_yout">Search Your</string>
+    <string name="specialist">Specialist</string>
+    <string name="select_area">Select Area</string>
+    <string name="doctor_specialist">Doctor, Specialist</string>
+    <string name="select_date">Select Date</string>
+    <string name="search">Search</string>
+
+    <string name="all_cardiologist">All Carddiologist</string>
+    <string name="see_all">See All</string>
+    <string name="available_doctor">Available Doctor</string>
+
+    <string name="name">Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="address">Address</string>
+
+    <string name="upcoming">Upcoming</string>
+    <string name="past">Past</string>
+
+
+    <string name="categories">Categories</string>
+
+
+    <string name="pediatrician">Pediatrician</string>
+    <string name="neurosurgeon">Neurosurgeon</string>
+    <string name="cardiologist">Cardiologist</string>
+    <string name="psychiat">Psychiatin</string>
+
+    <string name="video_call">Video Call</string>
+    <string name="voice_call">Voice Call</string>
+    <string name="message">Message</string>
+    <string name="medicine_and_heart">Medicine &amp; Heart Spelist</string>
+    <string name="good_health_clinic">Good Health Clinic, MBBS, FCPS</string>
+    <string name="about_serena">About Serena</string>
+    <string name="lorem">Lorem Ipsum is simply dummy test of the printing and typesetting industry. Lorem ipsum has been the industrys standard dummy text ever since the 1500s.</string>
+    <string name="patients">Patients</string>
+    <string name="experience">Experience</string>
+    <string name="review">Review</string>
+    <string name="book_an_appointment">Book an Appointment</string>
+
+    <string name="home">Home</string>
+    <string name="doctor">Doctor</string>
+    <string name="menu">Menu</string>
+
+
+</resources>

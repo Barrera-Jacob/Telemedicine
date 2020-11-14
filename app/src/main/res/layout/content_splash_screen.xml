@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:src="@drawable/splashimg"
+            android:scaleType="fitXY"
+            android:layout_height="match_parent"></ImageView>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:gravity="center"
+            android:text="@string/app_name"
+            android:textStyle="bold"
+            android:textSize="@dimen/appbar_text2_size"
+            android:textColor="@android:color/white"
+            android:layout_centerInParent="true"
+            android:textAllCaps="true"
+            android:layout_height="wrap_content"></TextView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:padding="30dp"
+            android:layout_marginBottom="20dp"
+            android:layout_alignParentBottom="true"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:layout_width="match_parent"
+                android:text="@string/sign_up"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/small_text_1"
+                android:id="@+id/signUpbutton"
+                android:layout_marginBottom="20dp"
+                android:background="@drawable/sign_up_bg"
+                android:layout_height="@dimen/button_height"></Button>
+
+            <Button
+                android:layout_width="match_parent"
+                android:text="@string/sign_in"
+                android:textSize="@dimen/small_text_1"
+                android:id="@+id/signInbutton"
+                android:textColor="@android:color/white"
+                android:background="@drawable/sign_in_bg"
+                android:layout_height="@dimen/button_height"></Button>
+
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
